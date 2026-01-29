@@ -1,0 +1,59 @@
+
+body{background-image: url('liurnia.jpg');}
+
+.business-card{
+
+  width:300px;
+  padding:20px;
+  margin-top:100px;
+  font-size:16px;
+  margin-right:auto;
+  margin-left:auto;
+  text-align:center;
+  color:white;
+  background-color:#b4a389;
+  filter: drop-shadow(8px 8px #393e5c)
+  ;
+  
+}
+
+.profile-image{max-width:100%;
+  }
+
+
+p {margin-top:5px;
+margin-bottom:5px;
+    color:white;}
+
+a {text-decoration:none;
+color:white;}
+
+a:hover{
+  color:aqua;
+}
+
+h2 {color:azure;
+}
+hr {color:black;
+margin-bottom:15px;
+margin-top:15px;}
+
+.funnybutton{margin-top:15px;
+  margin-bottom:15px;
+font-style:italic;
+font-family: 'Lucida Sans' sans-serif;
+color:white;
+font-size: 15px;
+background-color: transparent;
+border:none;
+}
+
+.funnybutton:hover{
+color:aqua;}
+
+table{margin:auto;
+}
+th, td {
+  
+  padding: 10px 10px;     /* itt a “lélegzés” a celláknak */
+}
